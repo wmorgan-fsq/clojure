@@ -1,8 +1,7 @@
 <project name="clojure" default="all">
 
   <description>
-    Build with "ant" and then start the
-    REPL with: "java -cp clojure.jar clojure.main".
+    Testing a change
   </description>
 
   <property name="src" location="src"/>
